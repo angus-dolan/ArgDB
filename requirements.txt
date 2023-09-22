@@ -1,4 +1,4 @@
 bottle==0.12.18
 dominate==2.5.1
 pywebview==3.3.1
-sadface=0.5.3.1
+sadface==0.5.3.1

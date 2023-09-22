@@ -6,6 +6,17 @@ ArgDB is a datastore, API, and suite of tools for working with argument data rep
 
 ## Usage
 
+### Installation
+
+Note: it may be beneficial to use a venv
+
+From the root of the project run the following commands:
+```
+$ pip install -r requirements.txt
+```
+```
+$ python setup.py install
+```
 
 ### Running the Command Line Interface (CLI):
 
